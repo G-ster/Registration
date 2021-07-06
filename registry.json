@@ -2536,6 +2536,20 @@
     "github":"chridado"
   },
   {
+    "ticker": "SURIN",
+    "poolId": "32d5331e1666f1fd38011fbcd0f0156ee13d646b81efcd9b0ce27e65",
+    "social": {
+
+      "website": "https://suripool.sigaservices.com/",
+      "reddit": "",
+      "instagram": "",
+      "youtube": ""
+    },
+    "telegram": "GiStar",
+    "operatorName": "GiStar",
+    "github": "G-ster"
+  },
+  {
     "ticker":"HOLA",
     "poolId":"ce9f192835046ba71ed302d5d3e0ba99d65fd3950346cadad4781814",
     "social":{
